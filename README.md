@@ -17,7 +17,7 @@
 11. incoPat：<http://www.incopat.com/login/tologin.action>，来自合享新创，确实是新创的产品，最近比较火，中国高端专利信息数据库的开端，值得拭目以待。
 12. 孔明网：<http://www.deepat.net/>，东方灵盾开发的新产品，还有化学结构检索，市场宣传的比较少，需要注册。
 13. 佰腾：<http://so.baiten.cn/>，常州佰腾的产品，也是越来越不错的检索系统。
-14. 天弓：<http://www.sharepat.cn/patent/app/welcome>，苏州公司，和中国专利信息中心合作的产品。需要注册。
+14. 情报嗒嗒：<https://www.tiikong.com/patent/query/index.do?>，苏州公司，以前的天弓，和中国专利信息中心合作的产品。需要注册。
 15. 广东省专利信息服务平台：<http://www.gdzl.gov.cn/>，有不少专题数据库。
 16. 上海市知识产权信息服务平台：<http://www.shanghaiip.cn/Search/login.do>，可以建设企业专题库。
 17. 江苏省中外专利检索与分析平台：<http://58.213.145.74:8080/cniprBZ/index.htm>，同样，有很多专题数据库。
@@ -28,6 +28,7 @@
 22. 百度专利：<http://zhuanli.baidu.com/>，只想说，百度对待专利没有谷歌认真。
 23. 药物在线：<http://www.drugfuture.com/Index.html>，免费下载中美欧专利，药学必备。
 24. 专利汇：<https://www.patenthub.cn/>，有免费版也有收费版，免费版的使用体验也很不错，界面较像收费的数据库 incoPat，还有 incoPat 所没有的 CPC 助手，且 CPC 分类号已经翻译成中文。
+25. 润桐：<https://www.rainpat.com/>，免费数据库，检索式不能太长，否则检索不到专利，亮点是可以像收费数据库一样批量导出著录项目，一次最多1000条。
 
 ## 国外篇
 
