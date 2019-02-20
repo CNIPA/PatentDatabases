@@ -10,6 +10,7 @@
 1. 中国知识产权网 CNIPR：<http://search.cnipr.com/pages!advSearch.action>，知识产权出版社开发，1999 年开始服务至今，用户体验较差。
 1. Patentics：<http://www.patentics.com>，语义搜索技术发挥到了一定水平，也许是中国最个性最超前的系统，缺点是语法较难，像是给程序员准备的而不是给普通用户准备的。
 1. incoPat：<http://www.incopat.com/login/tologin.action>，来自合享汇智，中国高端专利信息数据库，较为好用，但是费用较高，而且也没有免费版本，感兴趣的可以申请试用，给试用期还是挺大方的。
+1. 智慧芽：<http://cn.patsnap.com/>，新加坡，苏州和英国也有公司，收费数据库，且费用较高，给的试用期通常也较短，感兴趣的可以申请试用。
 1. 专利汇：<https://www.patenthub.cn/>，有免费版也有收费版，免费版的使用体验也很不错，界面较像收费的数据库 incoPat，还有 incoPat 所没有的 CPC 助手，且 CPC 分类号已经翻译成中文。
 1. 润桐：<https://www.rainpat.com/>，免费数据库，检索式不能太长，否则检索不到专利，亮点是可以像收费数据库一样批量导出著录项目，一次最多 1000 条。
 1. 佰腾：<http://so.baiten.cn/>，常州佰腾的产品，也是越来越不错的检索系统。
@@ -17,7 +18,6 @@
 1. 万方数据：<http://librarian.wanfangdata.com.cn/default.aspx?dbid=Paper>，多乎哉，不多已。
 1. 超星独秀：<http://www.duxiu.com/?channel=searchPatent>，只有中国专利。
 1. 百度专利：<http://zhuanli.baidu.com/>，只想说，百度对待专利没有谷歌认真。
-1. 药物在线：<http://www.drugfuture.com/>，免费下载中美欧专利，药学必备。
 1. SooPat：<http://www.soopat.com/>。以前很喜欢，现在广告较多，免费版需要输入验证码的频率较高，有专利首页预览功能，但是速度慢，几乎无法预览专利首页，不再推荐使用。
 1. 情报嗒嗒：<https://www.tiikong.com/patent/query/index.do?>，苏州公司，以前的天弓，和中国专利信息中心合作的产品。需要注册。
 1. 专利之星：<http://www.patentstar.cn/>，专利信息中心开发，前身是 CPRS 系统，上来就让注册，没体验过，不评价。
@@ -31,18 +31,19 @@
 ## 国外篇
 
 1. 美国专利商标局：<http://www.uspto.gov/patents/process/search/index.jsp>，个人以为是最贴心的免费专利数据库，网站有很多内容滴。
+1. 药物在线：<http://www.drugfuture.com/>，免费下载中美欧专利，药学必备。
 1. 欧洲专利局：<http://ep.espacenet.com>，收录国家和地区最多的免费数据库了，有数十个国家语言入口，欧洲统治世界的唯一表现。
 1. 欧盟知识产权局：<https://euipo.europa.eu/>，欧洲，欧盟，傻傻分不清楚，目前只有外观设计专利，价值有限。
-1. Patentscope：<http://www.wipo.int/patentscope/en/>，世界知识产权组织的检索系统，查询 PCT 最好的地方，还有很多国家的数据。
+1. Patentscope：<https://patentscope.wipo.int/search/zh/search.jsf>，世界知识产权组织的检索系统，查询 PCT 最好的地方，还有很多国家的数据。
+1. 韩国 KIPRIS 系统：<http://www.kipris.or.kr/enghome/main.jsp>，韩国工业产权信息服务中心，韩国的专利检索系统做的不错，比较国际化，不过机器翻译收费。
+1. 日本特许厅专利数据库：<https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopEnglishPage>
 1. 日本知识产权数字图书馆：<http://www.ipdl.inpit.go.jp/homepg_e.ipdl>，日本人免费的数据库一定是世界上最抠门的数据库，不过很细致，有英文机器翻译。
-1. 韩国 KIPRIS 系统：<http://www.kipris.or.kr/enghome/main.jsp>，韩国的专利检索系统做的不错，比较国际化，不过机器翻译收费。
 1. ThomsonInnovation：<http://www.thomsoninnovate.org/>，汤姆森路透，据说牛逼度和价格一样高，不错的数据库。
 1. DerwentInnovation：<https://www.derwentinnovation.com/>，德温特，所说很牛逼，没有用过。
 1. Questel：<http://www.questel.orbit.com/index.php/en/>，编者一直没机会用过，收费的，同族数据处理是特色之一。
-1. Totalpatent：<https://www.lexisnexis.com/totalpatent>，文如其名，收录专利全文文本最多的数据库。
+1. TotalPatent：<https://www.lexisnexis.com/totalpatent>，文如其名，收录专利全文文本最多的数据库。
 1. Patbase：<http://www.patbase.com/login.asp>，这个编者比较喜欢，下载比较方便的，注意，也收费。
 1. WIPS：<http://www.wipsglobal.com/service/mai/main.wips>，韩国的专利检索系统，还可以。
-1. 智慧芽：<http://cn.patsnap.com/>，新加坡，苏州和英国也有公司，收费数据库，且费用较高，给的试用期通常也较短，感兴趣的可以申请试用。
 1. DELPHION：<http://www.delphion.com/>，原创是 IBM，美国专利免费，其实比较实惠的收费系统。
 1. DIALOG：<http://search.proquest.com/professional/>，这家公司被卖了很多次，系统还是高端的，收费的，很贵。
 1. 免费专利在线：<http://www.freepatentsonline.com/>，免费的，还不错，一般应用满足。
@@ -57,7 +58,7 @@
 1. Patseer：<http://patseer.com/>，不知名不代表不够高大上，其实是个不错的产品。
 1. Patanalyst：<http://www.patanalyst.com/>，法国的产品，没啥特点。
 1. Patentanalysis：<http://www.patentanalysis.com/>，新西兰全文检索系统。
-1. Patentlens：<http://www.lens.org/lens/>，比尔盖茨和他老婆的基金会搞得系统，注意，基金会意味着全部免费哦，发现从全球视野来看，知识产权需要扶贫！
+1. Patentlens：<http://www.lens.org/lens/>，比尔盖茨和他老婆的基金会搞的系统，注意，基金会意味着全部免费哦，发现从全球视野来看，知识产权需要扶贫！
 1. Sumobrain：<http://www.sumobrain.com/>，收录美、欧、日和 PCT 专利，难道其他国家的人都没有脑子？
 1. Surechem：<http://www.surechem.org/>，检索专利化学结构不错。
 1. 阿尔巴尼亚检索系统：<http://www.alpto.gov.al/>，可以看基本著录项信息，没有全文，不能下载。
@@ -66,7 +67,7 @@
 1. 格鲁吉亚检索系统：<http://www.sakpatenti.org.ge>，2008 年至今。
 1. 德国检索系统：<http://www.dpma.de/>，有英文检索入口，检索结果显示著录项信息和摘要。
 1. 希腊检索系统：<http://www.obi.gr/obi/Default.aspx?tabid=71＆>，最多显示 200 条，只显示题目和法律状态，全部是希伯来语，2007 年 1 月申请量 61 条。
-1. 危地马拉检索系统：htps://www.rpi.gob.gt/，显示著录项信息、摘要，可下载 PDF 版全文。
+1. 危地马拉检索系统：<https://www.rpi.gob.gt/>，显示著录项信息、摘要，可下载 PDF 版全文。
 1. 洪都拉斯检索系统：<http://www.digepih.webs.com>，有公报，只能查看，周更新，文摘型。
 1. 匈牙利检索系统：<http://www.hipo.gov.hu>，可以查看基本著录项，可以查看摘要，没有全文。
 1. 冰岛检索系统：<http://www.patent.is>，没有发明专利的检索，只有外观专利可检索。
@@ -83,7 +84,7 @@
 1. 卢森堡检索系统：<http://www.eco.public.lu/>，搜索全文专利。
 1. 马来西亚检索系统：<https://iponline.myipo.gov.my/ipo/main/search.cfm>，显示著录项信息及法律状态，无法看摘要及全文。
 1. 马耳他检索系统：<https://secure2.gov.mt/IPO/default.aspx?ct=1>，显示著录项信息、摘要、可下载 PDF 版本全文，西班牙语。
-1. 蒙古检索系统：<http://www.ipom.mn>。
+1. 蒙古检索系统：<http://www.ipom.mn>，看不懂，需要借助 Google 翻译。
 1. 摩洛哥检索系统：<http://www.ompic.org.ma/index_en.htm>，收录 1955 至今专利共计 15804 条，最多只能显示 200 条，显示基本著录项，安装插件才能看 tiff 全文。
 1. 荷兰检索系统：<http://www.agentschapnl.nl/en/node/108069>，有数据库，分为申请库和授权库，无法查全库数据、样例数据，可以查看基本著录项，无全文提供。
 1. 新西兰检索系统：<http://www.iponz.govt.n>，最多显示 2000 条，样例数据查询可以看基本著录项，有 PDF 全文，英文，可下载，著录项可以生成 PDF 。
