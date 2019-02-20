@@ -27,6 +27,7 @@
 21. 超星独秀：<http://www.duxiu.com/?channel=searchPatent>，只有中国专利。
 22. 百度专利：<http://zhuanli.baidu.com/>，只想说，百度对待专利没有谷歌认真。
 23. 药物在线：<http://www.drugfuture.com/Index.html>，免费下载中美欧专利，药学必备。
+24. 专利汇：<https://www.patenthub.cn/>，有免费版也有收费版，免费版的使用体验也很不错，界面较像收费的数据库 incoPat，还有 incoPat 所没有的 CPC 助手，且 CPC 分类号已经翻译成中文。
 
 ## 国外篇
 
