@@ -134,3 +134,10 @@
 1. 斯洛文尼亚检索系统：<http://www.uil-cnipa.si/>，可下载全文。
 1. 南非检索系统：<http://www.cipc.co.za/>，只能看到专利号、申请日期、授权日期和专利名称。
 1. 西班牙检索系统：<http://www.oepm.es>，无法查全库数据，显示著录项信息、摘要、可下载 PDF 版本全文，西班牙语。
+
+# 分类号检索
+
+1. 日本特许厅的分类对照工具：<https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi>，极为推荐，能够对照显示 IPC, FI, ECLA, ICO 和 CPC，且所有分类号都提供英语和日语双语显示，用户也可以根据需要只显示部分分类号或者只显示英文或者只显示日语，虽然没有中文，但是日语中较多字就是汉字，对照英英语，并不难懂。
+1. 国家知识产权局 IPC 分类查询：<http://epub.cnipa.gov.cn/ipc.jsp>，此外国家知识产权局还按照 IPC 分类号的 8 个部提供 8 个可下载的 Doc 格式的文档<http://www.sipo.gov.cn/wxfw/zlwxxxggfw/zsyd/bzyfl/flgj_gjzlfl/index.htm>，但是两者体验都较差，且没有 CPC 分类查询功能。
+1. 专利汇的 CPC 助手：<https://www.patenthub.cn/search/advanced.html>，极为推荐，目前尚没有发现有其它数据库提供全中文的 CPC 分类号。
+1. 欧洲专利局的分类检索：<https://worldwide.espacenet.com/classification?locale=cn_EP>，英文的，更新较为及时，并且提供 IPC 和 CPC 的比对功能，体验也很棒，较为推荐。
