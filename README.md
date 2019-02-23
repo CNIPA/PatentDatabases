@@ -13,14 +13,17 @@
 1. Patentics：<http://www.patentics.com>，语义搜索技术发挥到了一定水平，也许是中国最个性最超前的系统，缺点是语法较难，像是给程序员准备的而不是给普通用户准备的。
 1. incoPat：<http://www.incopat.com/login/tologin.action>，来自合享汇智，中国高端专利信息数据库，较为好用，但是费用较高，而且也没有免费版本，感兴趣的可以申请试用，给试用期还是挺大方的。
 1. 智慧芽：<http://cn.patsnap.com/>，新加坡，苏州和英国也有公司，收费数据库，且费用较高，给的试用期通常也较短，感兴趣的可以申请试用。
+1. Innojoy：<http://www.innojoy.com/>，大为 Innojoy 专利搜索引擎，有较多的收费数据库才有的功能，数据更新较为及时，较为推荐。
 1. 专利汇：<https://www.patenthub.cn/>，有免费版也有收费版，免费版的使用体验也很不错，界面较像收费的数据库 incoPat，还有 incoPat 所没有的 CPC 助手，且 CPC 分类号已经翻译成中文。
+1. 度衍：<http://www.uyanip.com/>，免费数据库，不注册就可以使用，速度较快。
 1. 润桐：<https://www.rainpat.com/>，免费数据库，检索式不能太长，否则检索不到专利，亮点是可以像收费数据库一样批量导出著录项目，一次最多 1000 条。
 1. 佰腾：<http://so.baiten.cn/>，常州佰腾的产品，也是越来越不错的检索系统。
 1. 中国知网：<http://epub.cnki.net/KNS/brief/result.aspx?dbPrefix=SCOD>，专利数据无处不在。
 1. 万方数据：<http://librarian.wanfangdata.com.cn/default.aspx?dbid=Paper>，多乎哉，不多已。
 1. 超星独秀：<http://www.duxiu.com/?channel=searchPatent>，只有中国专利。
 1. 百度专利：<http://zhuanli.baidu.com/>，只想说，百度对待专利没有谷歌认真。
-1. SooPat：<http://www.soopat.com/>。以前很喜欢，现在广告较多，免费版需要输入验证码的频率较高，有专利首页预览功能，但是速度慢，几乎无法预览专利首页，不再推荐使用。
+1. 壹专利：<http://patyee.com/>，提供国防解密专利检索，收费数据库，没有体验过。
+1. SooPat：<http://www.soopat.com/>，以前很喜欢，现在广告较多，免费版需要输入验证码的频率较高，有专利首页预览功能，但是速度慢，几乎无法预览专利首页，不再推荐使用。
 1. 情报嗒嗒：<https://www.tiikong.com/patent/query/index.do?>，苏州公司，以前的天弓，和中国专利信息中心合作的产品。需要注册。
 1. 专利之星：<http://www.patentstar.cn/>，专利信息中心开发，前身是 CPRS 系统，上来就让注册，没体验过，不评价。
 1. 孔明网：<http://www.lindenpat.com/>，东方灵盾开发的新产品，还有化学结构检索，市场宣传的比较少，需要注册。
@@ -146,11 +149,10 @@
 1. 也门专利局：<http://www.yipo.gov.ye/>。
 1. 特立尼达和多马哥专利局：<http://www.ipo.gov.tt/>。
 
-
 # 分类号检索
 
 1. 日本特许厅的分类对照工具：<https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi>，极为推荐，能够对照显示 IPC, FI, ECLA, ICO 和 CPC，且所有分类号都提供英语和日语双语显示，用户也可以根据需要只显示部分分类号或者只显示英文或者只显示日语，虽然没有中文，但是日语中较多字就是汉字，对照英英语，并不难懂。
 1. 国家知识产权局 IPC 分类查询：<http://epub.cnipa.gov.cn/ipc.jsp>，此外国家知识产权局还按照 IPC 分类号的 8 个部提供 8 个可下载的 Doc 格式的文档<http://www.sipo.gov.cn/wxfw/zlwxxxggfw/zsyd/bzyfl/flgj_gjzlfl/index.htm>，但是两者体验都较差，且没有 CPC 分类查询功能。
 1. 专利汇的 CPC 助手：<https://www.patenthub.cn/search/advanced.html>，极为推荐，目前尚没有发现有其它数据库提供全中文的 CPC 分类号。
 1. 欧洲专利局的分类检索：<https://worldwide.espacenet.com/classification?locale=cn_EP>，英文的，更新较为及时，并且提供 IPC 和 CPC 的比对功能，体验也很棒，较为推荐。
-1. 台湾智慧财产厅的IPC分类浏览：<https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm>，速度很快，体验也不错
+1. 台湾智慧财产厅的 IPC 分类浏览：<https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm>，速度很快，体验也不错
