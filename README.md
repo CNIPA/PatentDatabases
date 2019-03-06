@@ -14,7 +14,7 @@
 1. incoPat：<http://www.incopat.com/login/tologin.action>，来自合享汇智，中国高端专利信息数据库，较为好用，但是费用较高，而且也没有免费版本，感兴趣的可以申请试用，给试用期还是挺大方的。
 1. 智慧芽：<http://cn.patsnap.com/>，新加坡，苏州和英国也有公司，收费数据库，且费用较高，给的试用期通常也较短，感兴趣的可以申请试用。
 1. Innojoy：<http://www.innojoy.com/>，大为 Innojoy 专利搜索引擎，有较多的收费数据库才有的功能，数据更新较为及时，较为推荐。
-1. 专利汇：<https://www.patenthub.cn/>，有免费版也有收费版，免费版的使用体验也很不错，界面较像收费的数据库 incoPat，还有 incoPat 所没有的 CPC 助手，且 CPC 分类号已经翻译成中文。
+1. 专利汇：<https://www.patenthub.cn/>，有免费版也有收费版，免费版的使用体验也很不错，界面较像收费的数据库 incoPat。
 1. 度衍：<http://www.uyanip.com/>，免费数据库，不注册就可以使用，速度较快。
 1. 润桐：<https://www.rainpat.com/>，免费数据库，检索式不能太长，否则检索不到专利，亮点是可以像收费数据库一样批量导出著录项目，一次最多 1000 条。
 1. 佰腾：<http://so.baiten.cn/>，常州佰腾的产品，也是越来越不错的检索系统。
@@ -153,6 +153,5 @@
 
 1. 日本特许厅的分类对照工具：<https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi>，极为推荐，能够对照显示 IPC, FI, ECLA, ICO 和 CPC，且所有分类号都提供英语和日语双语显示，用户也可以根据需要只显示部分分类号或者只显示英文或者只显示日语，虽然没有中文，但是日语中较多字就是汉字，对照英英语，并不难懂。
 1. 国家知识产权局 IPC 分类查询：<http://epub.cnipa.gov.cn/ipc.jsp>，此外国家知识产权局还按照 IPC 分类号的 8 个部提供 8 个可下载的 Doc 格式的文档<http://www.sipo.gov.cn/wxfw/zlwxxxggfw/zsyd/bzyfl/flgj_gjzlfl/index.htm>，但是两者体验都较差，且没有 CPC 分类查询功能。
-1. 专利汇的 CPC 助手：<https://www.patenthub.cn/search/advanced.html>，极为推荐，目前尚没有发现有其它数据库提供全中文的 CPC 分类号。
 1. 欧洲专利局的分类检索：<https://worldwide.espacenet.com/classification?locale=cn_EP>，英文的，更新较为及时，并且提供 IPC 和 CPC 的比对功能，体验也很棒，较为推荐。
 1. 台湾智慧财产厅的 IPC 分类浏览：<https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm>，速度很快，体验也不错
