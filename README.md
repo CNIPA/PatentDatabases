@@ -8,6 +8,7 @@
 1. 国家知识产权局专利审查查询系统：<http://cpquery.cnipa.gov.cn/>，中国版的 PAIR 数据库，中国专利的审查信息都从这个网站上查，用户体验极差，但是不用不行。
 1. 国家知识产权局专利信息公众服务系统：<http://www.pss-system.gov.cn>，不仅有中国专利，还收录了很多国家的专利，官方专利查询系统，体验较差。
 1. 中国知识产权网 CNIPR：<http://search.cnipr.com/pages!advSearch.action>，知识产权出版社开发，1999 年开始服务至今，用户体验较差。
+1. 香港知识产权署检索系统：<https://esearch.ipd.gov.hk/nis-pos-view/pt>，只能查看香港专利。
 1. 台湾专利资讯检索系统：<https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm>，我才不会把它叫做中华民国专利资讯检索系统。
 1. 澳门特别行政区经济局：<https://www.economia.gov.mo/>，虽然不是知识产权局，但这也过分了，瞧这域名，究竟有没有回归啊？
 1. Patentics：<http://www.patentics.com>，语义搜索技术发挥到了一定水平，也许是中国最个性最超前的系统，缺点是语法较难，像是给程序员准备的而不是给普通用户准备的，免费版只能查看第一检索结果的第一页，且功能受限。
@@ -27,12 +28,14 @@
 1. SooPat：<http://www.soopat.com/>，以前很喜欢，现在广告较多，免费版需要输入验证码的频率较高，有专利首页预览功能，但是速度慢，几乎无法预览专利首页，不再推荐使用。
 1. 情报嗒嗒：<https://www.tiikong.com/patent/query/index.do>，苏州公司，以前的天弓，和中国专利信息中心合作的产品。需要注册。
 1. 专利之星：<http://www.patentstar.cn/>，专利信息中心开发，前身是 CPRS 系统，上来就让注册，没体验过，不评价。
-1. 孔明网：<http://www.lindenpat.com/>，东方灵盾开发的新产品，还有化学结构检索，市场宣传的比较少，需要注册。
+1. 东方灵盾：<http://www.lindenpat.com/>，东方灵盾开发的新产品，还有化学结构检索，市场宣传的比较少，需要注册。
 1. 北京市知识产权公共信息平台：<http://www.beijingip.cn/search/login.dhtml?subjectCode=1>，不多说了，可以用用试试。
 1. 上海市知识产权信息服务平台：<http://www.shanghaiip.cn/Search/login.do>，可以建设企业专题库。
-1. 广东省专利信息服务平台：<http://www.gdzl.gov.cn/>，有不少专题数据库。
+1. 广东省知识产权公共信息综合服务平台：<http://search.guangdongip.gov.cn/>，申请人工具不错，目前只在收费的 incoPat 数据库中有见到这一功能，公开了较多按行业分类的专题数据库，IPC 分类导航功能与 PatViewer 完全一样，只是右侧显示的结果更多。
 1. 国家重点产业专利信息服务平台：<http://chinaip.cnipa.gov.cn/>，其实数据不仅仅是重点产业的，CNIPR 重点产业版。
 1. 中国专利网：<http://www.cnpatent.com/>，中国专利技术开发公司开发，点击专利检索不知道为什么跳到了这个网站上峰利平台 <http://www.patentbd.com/wee/>。
+1. 国家科技数字图书馆：<https://www.nstl.gov.cn/search.html>，能检索各种数据，包括专利。
+1. 中国军民融合平台：<http://sooip.com.cn/>，名字很雷人，只看名字我是怎么也想不到这是一个专利检索网站的，必须登录才能够使用。
 
 ## 国外篇
 
@@ -50,6 +53,7 @@
 1. Questel：<http://www.questel.orbit.com/index.php/en/>，编者一直没机会用过，收费的，同族数据处理是特色之一。
 1. TotalPatent：<https://www.lexisnexis.com/totalpatent>，文如其名，收录专利全文文本最多的数据库。
 1. Patbase：<http://www.patbase.com/>，收费数据库，可申请免费试用，界面中日英多种语言可以选择。
+1. PatentCloud：<https://www.inquartik.com/patentcloud/>，收费数据库，可以申请试用。
 1. WIPS：<http://www.wipsglobal.com/service/mai/main.wips>，韩国的专利检索系统，还可以。
 1. DELPHION：<http://www.delphion.com/>，原创是 IBM，美国专利免费，其实比较实惠的收费系统。
 1. DIALOG：<http://search.proquest.com/professional/>，这家公司被卖了很多次，系统还是高端的，收费的，很贵。
@@ -57,6 +61,7 @@
 1. 谷歌专利：<http://www.google.com/patents>，个人以为，未来谷歌做专利检索，大家都别玩了，没有大多数数据库都有的表格检索功能。
 1. INSPEC：<http://www.theiet.org/resources/inspec/>，物理工程领域的专业检索工具。
 1. IP.com：<https://priorart.ip.com/>，防卫性公告最好的系统。
+1. RPX Insight：<https://insight.rpxcorp.com/advanced_search>，免费，较为简陋，检索结果面没有摘要附图可以预览。
 1. JP-net：<http://www.jpds.co.jp/english/jpnete.html>，不懂日文，想花钱检索日本专利的可以试试。毕竟所有的系统，花钱和不花钱是不一样的。
 1. STN：<https://www.stn.org/stn/>，检索化学领域专利的利器，没钱就算了。
 1. 美国化学文摘社：<https://www.cas.org/>，不多介绍，看名字就知道它的特点了吧。
@@ -151,7 +156,8 @@
 # 分类号检索
 
 1. 日本特许厅的分类对照工具：<https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi>，极为推荐，能够对照显示 IPC, FI, ECLA, ICO 和 CPC，且所有分类号都提供英语和日语双语显示，用户也可以根据需要只显示部分分类号或者只显示英文或者只显示日语，虽然没有中文，但是日语中较多字就是汉字，对照英语，并不难懂。
-1. PatViewer IPC 分类导航：<http://www.patviewer.com/mytreeipc.do>，十分推荐，因为它可以根据选择在右侧显示十数篇至数十篇相应的中文或英文的专利摘要及附图，对于快速理解分类号十分有帮助。
+1. PatViewer 的 IPC 分类导航：<http://www.patviewer.com/mytreeipc.do>，十分推荐，因为它可以根据选择在右侧显示十数篇至数十篇相应的中文或英文的专利摘要及附图，对于快速理解分类号十分有帮助。
+1. 广东省知识产权公共信息综合服务平台的 IPC 分类导航：<http://search.guangdongip.gov.cn/node/industrySort?industryFlag=1>，十分推荐，与上面的 PatViewer 的 IPC分类导航功能均是同一家公司的作品，但右侧显示的专利更多，只能显示中文专利。
 1. 国家知识产权局 IPC 分类查询：<http://epub.cnipa.gov.cn/ipc.jsp>，此外国家知识产权局还按照 IPC 分类号的 8 个部提供 8 个可下载的 Doc 格式的文档 <http://www.sipo.gov.cn/wxfw/zlwxxxggfw/zsyd/bzyfl/flgj_gjzlfl/index.htm>，但是两者体验都较差，且没有 CPC 分类查询功能。
 1. 欧洲专利局的分类检索：<https://worldwide.espacenet.com/classification?locale=cn_EP>，英文的，更新较为及时，并且提供 IPC 和 CPC 的比对功能，体验也很棒，较为推荐。
 1. 台湾智慧财产厅的 IPC 分类浏览：<https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm>，速度很快，体验也不错，别拿繁体不当中文。
