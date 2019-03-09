@@ -24,7 +24,7 @@
 1. 百度专利：<http://zhuanli.baidu.com/>，只想说，百度对待专利没有谷歌认真。
 1. 壹专利：<http://patyee.com/>，提供国防解密专利检索，收费数据库，没有体验过。
 1. SooPat：<http://www.soopat.com/>，以前很喜欢，现在广告较多，免费版需要输入验证码的频率较高，有专利首页预览功能，但是速度慢，几乎无法预览专利首页，不再推荐使用。
-1. 情报嗒嗒：<https://www.tiikong.com/patent/query/index.do?>，苏州公司，以前的天弓，和中国专利信息中心合作的产品。需要注册。
+1. 情报嗒嗒：<https://www.tiikong.com/patent/query/index.do>，苏州公司，以前的天弓，和中国专利信息中心合作的产品。需要注册。
 1. 专利之星：<http://www.patentstar.cn/>，专利信息中心开发，前身是 CPRS 系统，上来就让注册，没体验过，不评价。
 1. 孔明网：<http://www.lindenpat.com/>，东方灵盾开发的新产品，还有化学结构检索，市场宣传的比较少，需要注册。
 1. 北京市知识产权公共信息平台：<http://www.beijingip.cn/search/login.dhtml?subjectCode=1>，不多说了，可以用用试试。
@@ -37,9 +37,9 @@
 
 1. 美国专利商标局：<http://www.uspto.gov/patents/process/search/index.jsp>，个人以为是最贴心的免费专利数据库，网站有很多内容滴。
 1. 药物在线：<http://www.drugfuture.com/>，免费下载中美欧专利，药学必备。
-1. 欧洲专利局：<http://ep.espacenet.com>，收录国家和地区最多的免费数据库了，有数十个国家语言入口，欧洲统治世界的唯一表现。
+1. 欧洲专利局：<http://ep.espacenet.com/>，收录国家和地区最多的免费数据库了，有数十个国家语言入口，欧洲统治世界的唯一表现。
 1. 欧盟知识产权局：<https://euipo.europa.eu/>，欧洲，欧盟，傻傻分不清楚，目前只有外观设计专利，价值有限。
-1. 欧亚专利组织：<https://www.eapo.org>，名字很响亮，这是要统一欧盟和中国知识产权局的节奏吗？
+1. 欧亚专利组织：<https://www.eapo.org/>，名字很响亮，这是要统一欧洲和亚洲的知识产权局的节奏吗？
 1. 非洲知识产权组织：<http://www.aripo.org/>。
 1. Patentscope：<https://patentscope.wipo.int/search/zh/search.jsf>，世界知识产权组织的检索系统，查询 PCT 最好的地方，还有很多国家的数据。
 1. 韩国 KIPRIS 系统：<http://www.kipris.or.kr/enghome/main.jsp>，韩国工业产权信息服务中心，韩国的专利检索系统做的不错，比较国际化，不过机器翻译收费。
@@ -55,7 +55,7 @@
 1. 免费专利在线：<http://www.freepatentsonline.com/>，免费的，还不错，一般应用满足。
 1. 谷歌专利：<http://www.google.com/patents>，个人以为，未来谷歌做专利检索，大家都别玩了，没有大多数数据库都有的表格检索功能。
 1. INSPEC：<http://www.theiet.org/resources/inspec/>，物理工程领域的专业检索工具。
-1. IP.com：<http://ip.com/publish/prior-art-database.html>，防卫性公告最好的系统。
+1. IP.com：<https://priorart.ip.com/>，防卫性公告最好的系统。
 1. JP-net：<http://www.jpds.co.jp/english/jpnete.html>，不懂日文，想花钱检索日本专利的可以试试。毕竟所有的系统，花钱和不花钱是不一样的。
 1. STN：<https://www.stn.org/stn/>，检索化学领域专利的利器，没钱就算了。
 1. 美国化学文摘社：<https://www.cas.org/>，不多介绍，看名字就知道它的特点了吧。
@@ -67,32 +67,32 @@
 1. Sumobrain：<http://www.sumobrain.com/>，收录美、欧、日和 PCT 专利，难道其他国家的人都没有脑子？
 1. Surechem：<http://www.surechem.org/>，检索专利化学结构不错。
 1. 阿尔巴尼亚检索系统：<http://www.alpto.gov.al/>，可以看基本著录项信息，没有全文，不能下载。
-1. 阿尔及利亚检索系统：<http://www.inapi.org>，需要用户名。
+1. 阿尔及利亚检索系统：<http://www.inapi.org/>，需要用户名。
 1. 亚美尼亚检索系统：<http://www.aipa.am/>，能看著录项，能下载全文和首页。
-1. 格鲁吉亚检索系统：<http://www.sakpatenti.org.ge>，2008 年至今。
+1. 格鲁吉亚检索系统：<http://www.sakpatenti.org.ge/>，2008 年至今。
 1. 德国检索系统：<http://www.dpma.de/>，有英文检索入口，检索结果显示著录项信息和摘要。
 1. 希腊检索系统：<http://www.obi.gr/obi/Default.aspx?tabid=71>，最多显示 200 条，只显示题目和法律状态，全部是希伯来语，2007 年 1 月申请量 61 条。
 1. 危地马拉检索系统：<https://www.rpi.gob.gt/>，显示著录项信息、摘要，可下载 PDF 版全文。
-1. 洪都拉斯检索系统：<http://www.digepih.webs.com>，有公报，只能查看，周更新，文摘型。
-1. 匈牙利检索系统：<http://www.hipo.gov.hu>，可以查看基本著录项，可以查看摘要，没有全文。
-1. 冰岛检索系统：<http://www.patent.is>，没有发明专利的检索，只有外观专利可检索。
-1. 印度检索系统：<http://www.ipindia.nic.in>，显示基本著录项信息，可以看 PDF 格式的说明书全文等。
+1. 洪都拉斯检索系统：<http://www.digepih.webs.com/>，有公报，只能查看，周更新，文摘型。
+1. 匈牙利检索系统：<http://www.hipo.gov.hu/>，可以查看基本著录项，可以查看摘要，没有全文。
+1. 冰岛检索系统：<http://www.patent.is/>，没有发明专利的检索，只有外观专利可检索。
+1. 印度检索系统：<http://www.ipindia.nic.in/>，显示基本著录项信息，可以看 PDF 格式的说明书全文等。
 1. 印尼检索系统：<http://www.dgip.go.id/statistik-djhki>，有高级检索和简单检索，但是没有通配符，无法检全库数据，每两周周二更新数据。
 1. 爱尔兰检索系统：<http://www.patentsoffice.ie/en/publications_download.aspx>，显示著录项，没有全文。
 1. 以色列检索系统：<http://www.patent.justice.gov.il/MojHeb/RashamHaPtentim>，只显示题目和法律状态。
 1. 意大利检索系统：<http://www.uibm.gov.it/>。
-1. 哈萨克斯坦检索系统：<http://www.kazpatent.kz>，最多显示 500 项，不能显示全库数目。
+1. 哈萨克斯坦检索系统：<http://www.kazpatent.kz/>，最多显示 500 项，不能显示全库数目。
 1. 肯尼亚检索系统：<http://www.kipi.go.ke/index.php/past-ip-journals>，显示基本著录项、文摘，无全文。
-1. 科威特检索系统：<http://www.gccpo.org>，可以点击查看文摘型，可以在网上直接查看，也可以下载 PDF 文件。
-1. 拉脱维亚检索系统：<http://www.lrpv.gov.lv/lv>，收录 1973 年至 2010 年专利，可免费查看摘要，无全文阿拉伯语。
-1. 立陶宛检索系统：<http://www.vpb.lt>，无法查全库数据，显示著录项信息、摘要，可下载 PDF 版全文。
+1. 科威特检索系统：<http://www.gccpo.org/>，可以点击查看文摘型，可以在网上直接查看，也可以下载 PDF 文件。
+1. 拉脱维亚检索系统：<http://www.lrpv.gov.lv/lv/>，收录 1973 年至 2010 年专利，可免费查看摘要，无全文阿拉伯语。
+1. 立陶宛检索系统：<http://www.vpb.lt/>，无法查全库数据，显示著录项信息、摘要，可下载 PDF 版全文。
 1. 卢森堡检索系统：<http://www.eco.public.lu/>，搜索全文专利。
 1. 马来西亚检索系统：<https://iponline.myipo.gov.my/ipo/main/search.cfm>，显示著录项信息及法律状态，无法看摘要及全文。
 1. 马耳他检索系统：<https://secure2.gov.mt/IPO/default.aspx?ct=1>，显示著录项信息、摘要、可下载 PDF 版本全文，西班牙语。
-1. 蒙古检索系统：<http://www.ipom.mn>，看不懂，需要借助 Google 翻译。
+1. 蒙古检索系统：<http://www.ipom.mn/>，看不懂，需要借助 Google 翻译。
 1. 摩洛哥检索系统：<http://www.ompic.org.ma/index_en.htm>，收录 1955 至今专利共计 15804 条，最多只能显示 200 条，显示基本著录项，安装插件才能看 tiff 全文。
 1. 荷兰检索系统：<http://www.agentschapnl.nl/en/node/108069>，有数据库，分为申请库和授权库，无法查全库数据、样例数据，可以查看基本著录项，无全文提供。
-1. 新西兰检索系统：<http://www.iponz.govt.n>，最多显示 2000 条，样例数据查询可以看基本著录项，有 PDF 全文，英文，可下载，著录项可以生成 PDF 。
+1. 新西兰检索系统：<http://www.iponz.govt.n/>，最多显示 2000 条，样例数据查询可以看基本著录项，有 PDF 全文，英文，可下载，著录项可以生成 PDF 。
 1. 挪威检索系统：<http://www.patentstyret.no/>，可以查看基本著录项，可以查看法律状态引文，同族链接欧专局，信息量很全，没有全文。
 1. 澳大利亚检索系统：<http://www.ipaustralia.gov.au>。
 1. 奥地利检索系统：<http://www.patentamt.at/>，需要账户注册。
@@ -106,43 +106,43 @@
 1. 菲律宾检索系统：<http://www.ipophil.gov.ph/index.php>，显示基本著录项信息，可以看 PDF 格式的说明书全文等。
 1. 波兰检索系统：<http://www.uprp.pl/strona-glowna/Menu01,9,0,index,pl/>，有高级检索和简单检索，但是没有通配符，无法检全库数据。
 1. 葡萄牙检索系统：<http://www.marcasepatentesNaN/index.php?section=80>，只有号码、申请人、名称和摘要入口检索，无法查全库数据，无法进行数据比对。
-1. 卡塔尔检索系统：<http://www.gccpo.org>，有授权专利检索，可查范围 1998 年至今，显示著录项信息，基本可下载 PDF 版全文，阿拉伯语（海湾阿拉伯国家合作委员会专利局）。
+1. 卡塔尔检索系统：<http://www.gccpo.org/>，有授权专利检索，可查范围 1998 年至今，显示著录项信息，基本可下载 PDF 版全文，阿拉伯语（海湾阿拉伯国家合作委员会专利局）。
 1. 摩尔多瓦共和国检索系统：<http://agepi.gov.md/md/>，概览可以看到基本著录项，细览页面可以看 PDF 全文，著录项可以免费下载，只能精确检索，无法比对。
-1. 罗马尼亚检索系统：<http://www.osim.ro>，没有日期入口，无法检全库数据，显示基本著录项信息，PDF 全文，不能下载。
+1. 罗马尼亚检索系统：<http://www.osim.ro/>，没有日期入口，无法检全库数据，显示基本著录项信息，PDF 全文，不能下载。
 1. 俄罗斯联邦检索系统：<http://www.rupto.ru/en_site/index_en.htm>，有很多数据库，但是没有检索入口。
 1. 卢旺达检索系统：<http://org.rdb.rw/>，需要用户名，但实际页面无法打开。
-1. 沙特阿拉伯检索系统：<http://www.gccpo.org>，有授权专利检索，可查范围 1998 年至今，显示著录项信息，基本可下载 PDF 版全文，阿拉伯语（海湾阿拉伯国家合作委员会专利局）。
+1. 沙特阿拉伯检索系统：<http://www.gccpo.org/>，有授权专利检索，可查范围 1998 年至今，显示著录项信息，基本可下载 PDF 版全文，阿拉伯语（海湾阿拉伯国家合作委员会专利局）。
 1. 瑞典检索系统：<http://www.prv.se/>。
-1. 瑞士检索系统：<https://www.ige.ch/>，显示基本著录项及法律状态，没有全文；
+1. 瑞士检索系统：<https://www.ige.ch/>，显示基本著录项及法律状态，没有全文。
 1. 阿拉伯叙利亚共和国检索系统：<http://www.spo.gov.sy/en/>，阿拉伯界面，用日期和分类号都不能获得检索结果。
-1. 巴西检索系统：<http://www.inpi.gov.br>，只有号码、申请及公开日期、发明人、分类号入口检索，无法查全库数据，显示著录项信息，可下载 PDF 全文。
-1. 加拿大检索系统：<http://www.cipo.ic.gc.ca>，可以查看基本著录项、全文等，细览信息比较全。
+1. 巴西检索系统：<http://www.inpi.gov.br/>，只有号码、申请及公开日期、发明人、分类号入口检索，无法查全库数据，显示著录项信息，可下载 PDF 全文。
+1. 加拿大检索系统：<http://www.cipo.ic.gc.ca/>，可以查看基本著录项、全文等，细览信息比较全。
 1. 智利检索系统：<http://www.inapi.cl/>，最多显示 500 项，不能显示全库数目，查询结果中显示著录项信息，无法查看及下载全文。
 1. 哥伦比亚检索系统：<http://www.sic.gov.co/es/banco-patentes>，显示基本著录项、文摘，无全文。
 1. 克罗地亚检索系统：<http://www.dziv.hr/>，只有号码、申请及公开日期、发明人、分类号入口检索。
-1. 古巴检索系统：<http://www.ocpi.cu>。
-1. 捷克共和国检索系统：<http://www.upv.cz>，包含自 1991 年以来的捷克专利，显示著录项信息，可下载全文。
-1. 丹麦检索系统：<http://www.dkpto.org>，概览可看到著录项信息，无法看全文，不支持模糊检索。
+1. 古巴检索系统：<http://www.ocpi.cu/>。
+1. 捷克共和国检索系统：<http://www.upv.cz/>，包含自 1991 年以来的捷克专利，显示著录项信息，可下载全文。
+1. 丹麦检索系统：<http://www.dkpto.org/>，概览可看到著录项信息，无法看全文，不支持模糊检索。
 1. 埃及检索系统：<http://www.egypo.gov.eg/Search.aspx>，收录 1973 年至 2010 年专利，可免费查看摘要，无全文，阿拉伯语。
-1. 爱沙尼亚检索系统：<http://www.epa.ee>，显示著录项信息、摘要，无法看全文。
-1. 法国检索系统：<http://www.inpi.fr>，收录 1989 年至今的法国专利，无法查全库数据，法语，显示著录项信息和法律状态。
+1. 爱沙尼亚检索系统：<http://www.epa.ee/>，显示著录项信息、摘要，无法看全文。
+1. 法国检索系统：<http://www.inpi.fr/>，收录 1989 年至今的法国专利，无法查全库数据，法语，显示著录项信息和法律状态。
 1. 泰国检索系统：<http://www.ipthailand.go.th/ipthailand/index.php?lang=en>，摘要型，tiff 格式，无全文，泰文。
-1. 前南斯拉夫的马其顿共和国检索系统：<http://www.ippo.gov.mk>，显示基本著录项，没有全文。
+1. 前南斯拉夫的马其顿共和国检索系统：<http://www.ippo.gov.mk/>，显示基本著录项，没有全文。
 1. 突尼斯检索系统：<http://www.innorpi.tn/>，显示基本著录项，无法查全库。
 1. 土耳其检索系统：<http://www.turkpatent.gov.tr/>，无法查全库数据，显示著录项信息，无法看全文。
 1. 乌克兰检索系统：<http://www.sips.gov.ua/en/index.html>，可以进行检索，无法查全库，可以看基本著录项和摘要数据，可以看 PDF 说明书全文，俄语，没有下载的接口。
-1. 阿拉伯联合酋长国检索系统：<http://www.gccpo.org>，有授权专利检索，可查范围 1998 年至今，显示著录项信息，基本可下载 PDF 版全文，阿拉伯语（海湾阿拉伯国家合作委员会专利局）。
-1. 英国检索系统：<http://www.ipo.gov.uk>，显示著录项信息、摘要，可下载全文。
-1. 越南检索系统：<http://www.noip.gov.vn>，显示著录项信息、法律状态、无法查看全文。
+1. 阿拉伯联合酋长国检索系统：<http://www.gccpo.org/>，有授权专利检索，可查范围 1998 年至今，显示著录项信息，基本可下载 PDF 版全文，阿拉伯语（海湾阿拉伯国家合作委员会专利局）。
+1. 英国检索系统：<http://www.ipo.gov.uk/>，显示著录项信息、摘要，可下载全文。
+1. 越南检索系统：<http://www.noip.gov.vn/>，显示著录项信息、法律状态、无法查看全文。
 1. 新加坡检索系统：<http://www.ipos.gov.sg/>，基本著录项目、法律状态、说明书全文、摘要，说明书全文可下载图像格式。
-1. 斯洛伐克检索系统：<http://www.upv.sk>，显示著录项信息及法律状态，无法看摘要及全文。
+1. 斯洛伐克检索系统：<http://www.upv.sk/>，显示著录项信息及法律状态，无法看摘要及全文。
 1. 斯洛文尼亚检索系统：<http://www.uil-cnipa.si/>，可下载全文。
 1. 南非检索系统：<http://www.cipc.co.za/>，只能看到专利号、申请日期、授权日期和专利名称。
-1. 西班牙检索系统：<http://www.oepm.es>，无法查全库数据，显示著录项信息、摘要、可下载 PDF 版本全文，西班牙语。
-1. 荷兰专利局：<https://www.prh.fi>。
-1. 比荷卢知识产权组织(BOIP)：<https://www.boip.int/>，比利时，荷兰，卢森堡？
+1. 西班牙检索系统：<http://www.oepm.es/>，无法查全库数据，显示著录项信息、摘要、可下载 PDF 版本全文，西班牙语。
+1. 荷兰专利局：<https://www.prh.fi/>。
+1. 比荷卢知识产权组织(BOIP)：<https://www.boip.int/>，比利时、荷兰、卢森堡三国竟然还成立了一个知识产权组织。
 1. 墨西哥：<https://www.gob.mx/>。
-1. 乌拉圭：<http://www.miem.gub.uy/>
+1. 乌拉圭：<http://www.miem.gub.uy/>。
 1. 乌兹别克：<http://ima.uz/>。
 1. 也门专利局：<http://www.yipo.gov.ye/>。
 1. 特立尼达和多马哥专利局：<http://www.ipo.gov.tt/>。
@@ -152,4 +152,4 @@
 1. 日本特许厅的分类对照工具：<https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi>，极为推荐，能够对照显示 IPC, FI, ECLA, ICO 和 CPC，且所有分类号都提供英语和日语双语显示，用户也可以根据需要只显示部分分类号或者只显示英文或者只显示日语，虽然没有中文，但是日语中较多字就是汉字，对照英英语，并不难懂。
 1. 国家知识产权局 IPC 分类查询：<http://epub.cnipa.gov.cn/ipc.jsp>，此外国家知识产权局还按照 IPC 分类号的 8 个部提供 8 个可下载的 Doc 格式的文档<http://www.sipo.gov.cn/wxfw/zlwxxxggfw/zsyd/bzyfl/flgj_gjzlfl/index.htm>，但是两者体验都较差，且没有 CPC 分类查询功能。
 1. 欧洲专利局的分类检索：<https://worldwide.espacenet.com/classification?locale=cn_EP>，英文的，更新较为及时，并且提供 IPC 和 CPC 的比对功能，体验也很棒，较为推荐。
-1. 台湾智慧财产厅的 IPC 分类浏览：<https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm>，速度很快，体验也不错
+1. 台湾智慧财产厅的 IPC 分类浏览：<https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm>，速度很快，体验也不错，别拿繁体不当中文。
