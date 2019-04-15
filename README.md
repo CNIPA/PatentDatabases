@@ -47,12 +47,12 @@
 
 ## 国外篇
 
-1. 美国专利商标局：<http://www.uspto.gov/patents/process/search/index.jsp>，个人以为是最贴心的免费专利数据库，网站有很多内容滴。
-1. 药物在线：<http://www.drugfuture.com/>，免费下载中美欧专利，药学必备。
-1. 欧洲专利局：<http://ep.espacenet.com/>，收录国家和地区最多的免费数据库了，有数十个国家语言入口，欧洲统治世界的唯一表现。
+1. 欧洲专利局：<http://ep.espacenet.com/>，收录国家和地区最多的免费数据库了，有数十个国家语言入口，欧洲统治世界的唯一表现，最为推荐。
 1. 欧盟知识产权局：<https://euipo.europa.eu/>，欧洲，欧盟，傻傻分不清楚，目前只有外观设计专利，价值有限。
+1. 美国专利商标局：<http://www.uspto.gov/patents/process/search/index.jsp>，官方网站，但是编号和语法规则奇怪，不如欧专局的网站好用，但是美国专利状态信息必须从这个网站查。
+1. 药物在线：<http://www.drugfuture.com/>，免费下载中美欧专利，药学必备。
 1. 欧亚专利组织：<https://www.eapo.org/>，名字很响亮，这是要统一欧洲和亚洲的知识产权局的节奏吗？
-1. 非洲知识产权组织：<http://www.aripo.org/>。
+1. 非洲知识产权组织：<http://www.aripo.org/>，不了解。
 1. Patentscope：<https://patentscope.wipo.int/search/zh/search.jsf>，世界知识产权组织的检索系统，查询 PCT 最好的地方，还有很多国家的数据。
 1. 韩国 KIPRIS 系统：<http://www.kipris.or.kr/enghome/main.jsp>，韩国工业产权信息服务中心，韩国的专利检索系统做的不错，比较国际化，不过机器翻译收费。
 1. 日本特许厅专利数据库：<https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopEnglishPage>，日本特许厅官方的数据库。
