@@ -66,7 +66,7 @@
 1. DELPHION：<http://www.delphion.com/>，原创是 IBM，美国专利免费，其实比较实惠的收费系统。
 1. DIALOG：<http://search.proquest.com/professional/>，这家公司被卖了很多次，系统还是高端的，收费的，很贵。
 1. 免费专利在线：<http://www.freepatentsonline.com/>，免费的，还不错，一般应用满足。
-1. 谷歌专利：<http://www.google.com/patents>，个人以为，未来谷歌做专利检索，大家都别玩了，没有大多数数据库都有的表格检索功能。
+1. 谷歌专利：<http://www.google.com/patents>，上手非常容易，查询专利速度很快，但是没有大多数数据库都有的表格检索功能，无法通过构建检索式来构建专利检索策略。
 1. INSPEC：<http://www.theiet.org/resources/inspec/>，物理工程领域的专业检索工具。
 1. IP.com：<https://priorart.ip.com/>，防卫性公告最好的系统。
 1. RPX Insight：<https://insight.rpxcorp.com/advanced_search>，免费，较为简陋，检索结果面没有摘要附图可以预览。
