@@ -26,7 +26,7 @@
 1. 专利汇：<https://www.patenthub.cn>，有免费版也有收费版，免费版的使用体验也很不错，界面较像收费的数据库 incoPat。
 1. 度衍：<http://www.uyanip.com>，免费数据库，不注册就可以使用，速度较快。
 1. 润桐：<https://www.rainpat.com>，免费数据库，检索式不能太长，否则检索不到专利，亮点是可以像收费数据库一样批量导出著录项目，一次最多 1000 条。
-1. 佰腾：<http://so.baiten.cn>，常州佰腾的产品，也是越来越不错的检索系统。
+1. 佰腾：<http://so.baiten.cn>，常州佰腾的产品，网站体验越来越差，不再推荐。
 1. 中国知网：<http://epub.cnki.net/KNS/brief/result.aspx?dbPrefix=SCOD>，专利数据无处不在。
 1. 万方数据：<http://librarian.wanfangdata.com.cn/default.aspx?dbid=Paper>，多乎哉，不多已。
 1. 超星独秀：<http://www.duxiu.com/?channel=searchPatent>，只有中国专利。
