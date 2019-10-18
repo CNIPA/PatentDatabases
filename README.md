@@ -25,7 +25,7 @@
 1. Innojoy：<http://www.innojoy.com>，大为 Innojoy 专利搜索引擎，有较多的收费数据库才有的功能，数据更新较为及时，较为推荐。
 1. 专利汇：<https://www.patenthub.cn>，有免费版也有收费版，免费版的使用体验也很不错，界面较像收费的数据库 incoPat。
 1. 度衍：<http://www.uyanip.com>，免费数据库，不注册就可以使用，速度较快。
-1. 润桐：<https://www.rainpat.com>，免费数据库，检索式不能太长，否则检索不到专利，亮点是可以像收费数据库一样批量导出著录项目，一次最多 1000 条。
+1. 润桐：<https://www.rainpat.com>，免费数据库，检索式不能太长，否则检索不到专利，目前已不能免费批量导出，不再推荐。
 1. 佰腾：<http://so.baiten.cn>，常州佰腾的产品，网站体验越来越差，不再推荐。
 1. 中国知网：<http://epub.cnki.net/KNS/brief/result.aspx?dbPrefix=SCOD>，专利数据无处不在。
 1. 万方数据：<http://librarian.wanfangdata.com.cn/default.aspx?dbid=Paper>，多乎哉，不多已。
