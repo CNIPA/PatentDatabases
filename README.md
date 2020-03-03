@@ -53,7 +53,7 @@
 1. 药物在线：<http://www.drugfuture.com>，免费下载中美欧专利，药学必备。
 1. 欧亚专利组织：<https://www.eapo.org>，名字很响亮，这是要统一欧洲和亚洲的知识产权局的节奏吗？
 1. 非洲知识产权组织：<http://www.aripo.org>，不了解。
-1. Patentscope：<https://patentscope.wipo.int/search/zh/search.jsf>，世界知识产权组织的检索系统，查询 PCT 最好的地方，还有很多国家的数据。
+1. Patentscope：<https://patentscope.wipo.int/search/zh/search.jsf>，世界知识产权组织的检索系统，查询 PCT 最好的地方，还有很多国家的数据，提供的功能较为全面，浏览专利也较为方便，强烈推荐。
 1. 韩国 KIPRIS 系统：<http://www.kipris.or.kr/enghome/main.jsp>，韩国工业产权信息服务中心，韩国的专利检索系统做的不错，比较国际化，不过机器翻译收费。
 1. 日本特许厅专利数据库：<https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopEnglishPage>，日本特许厅官方的数据库。
 1. ThomsonInnovation：<http://www.thomsoninnovate.org>，汤姆森路透，据说牛逼度和价格一样高，不错的数据库。
