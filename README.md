@@ -164,6 +164,7 @@
 # 分类号检索
 
 1. 日本特许厅的分类对照工具：<https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi>，极为推荐，能够对照显示 IPC, FI, ECLA, ICO 和 CPC，且所有分类号都提供英语和日语双语显示，用户也可以根据需要只显示部分分类号或者只显示英文或者只显示日语，虽然没有中文，但是日语中较多字就是汉字，对照英语，并不难懂。
+1. incoPat 专利数据库提供的IPC分类查询：http://ipc.incopat.com/，极为推荐，数据库虽然收费，但是 IPC 分类查询功能却是免费的，同时提供中文版、英文版和日文版，相对于日本特许厅的分类对照工具的缺点是——无法快速对照这三种语言版本。
 1. PatViewer 的 IPC 分类导航：<http://www.patviewer.com/mytreeipc.do>，十分推荐，因为它可以根据选择在右侧显示十数篇至数十篇相应的中文或英文的专利摘要及附图，对于快速理解分类号十分有帮助。
 1. 广东省知识产权公共信息综合服务平台的 IPC 分类导航：<http://search.guangdongip.gov.cn/node/industrySort?industryFlag=1>，十分推荐，与上面的 PatViewer 的 IPC分类导航功能均是同一家公司的作品，但右侧显示的专利更多，只能显示中文专利。
 1. 国家知识产权局 IPC 分类查询：<http://epub.cnipa.gov.cn/ipc.jsp>，此外国家知识产权局还按照 IPC 分类号的 8 个部提供 8 个可下载的 Doc 格式的文档 <http://www.sipo.gov.cn/wxfw/zlwxxxggfw/zsyd/bzyfl/flgj_gjzlfl/index.htm>，但是两者体验都较差，且没有 CPC 分类查询功能。
