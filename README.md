@@ -19,11 +19,12 @@
 1. 香港知识产权署检索系统：<https://esearch.ipd.gov.hk/nis-pos-view/pt>，只能查看香港专利。
 1. 台湾专利资讯检索系统：<https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm>，我才不会把它叫做中华民国专利资讯检索系统。
 1. 澳门特别行政区经济局：<https://www.economia.gov.mo>，虽然不是知识产权局，但这也过分了，瞧这域名，究竟有没有回归啊？
-1. incoPat：<http://www.incopat.com>，来自合享汇智，中国高端专利信息数据库，较为好用，收录有 117 个国家的专利，这大概是全球最全的专利数据库了，费用较高，而且也没有免费版本，感兴趣的可以申请试用，给试用期很大方的。
+1. incoPat：<http://www.incopat.com>，来自合享汇智，中国高端专利信息数据库，较为好用，收录有 117 个国家的专利，这大概是全球最全的专利数据库了，费用较高，而且也没有免费版本，感兴趣的可以申请试用，给试用期很大方的；加工好的字段极为丰富，是目前字段最为丰富的专利数据库，没有之一；缺点是检索结果页面大片空白浪费屏幕；专利查看页面的单页视图和双页视图的割裂感较强，影响用户体验，单页版不方便对照着看文字和附图，双页版又无法查看同族专利、引证专利和相似专利，反馈多次也不见改善这一问题。
 1. Patentics：<http://www.patentics.com>，语义搜索技术发挥到了一定水平，也许是中国最个性最超前的系统，缺点是语法较难，像是给程序员准备的而不是给普通用户准备的，免费版只能查看第一检索结果的第一页，且功能受限。
-1. 智慧芽：<http://cn.patsnap.com>，新加坡的公司，苏州和英国也有公司，收费数据库，且费用较高，给的试用期通常也较短，感兴趣的可以申请试用。
+1. 智慧芽：<https://www.zhihuiya.com>，新加坡的公司，苏州和英国也有公司，收费数据库，且费用较高，给的试用期通常也较短，感兴趣的可以申请试用。
+1. HimmPat：<https://www.himmpat.com>，较新的一款数据库，2020 年 8 月 8 日才结束公测开始收费，速度很快，用户体验也不错，实现了 incoPat 和智慧芽的大部分检索功能，分析功能仍在开发中，标准申请人数据还在加工中，数据库收录完整程度略差，据客服讲主要是少了外观设计部分的数据，起步价便宜一点，如果一次能够多订购几年，折扣很给力，给试用期比较大方，专利检索结果页面和专利查看页面显著优于 incoPat，极为推荐。
 1. Innojoy：<http://www.innojoy.com>，大为 Innojoy 专利搜索引擎，有较多的收费数据库才有的功能，数据更新较为及时，较为推荐。
-1. 专利汇：<https://www.patenthub.cn>，有免费版也有收费版，免费版的使用体验也很不错，界面较像收费的数据库 incoPat。
+1. 专利汇：<https://www.patenthub.cn>，有免费版也有收费版，免费版的使用体验也很不错，界面较像收费的数据库 incoPat，首页就有大量专利售卖信息，主要是授权未缴费专利，行内人自然知道是什么专利，不多说。
 1. 度衍：<http://www.uyanip.com>，免费数据库，不注册就可以使用，速度较快。
 1. 润桐：<https://www.rainpat.com>，免费数据库，检索式不能太长，否则检索不到专利，目前已不能免费批量导出，不再推荐。
 1. 佰腾：<http://so.baiten.cn>，常州佰腾的产品，网站体验越来越差，不再推荐。
@@ -34,16 +35,13 @@
 1. 壹专利：<http://patyee.com>，提供国防解密专利检索，收费数据库，没有体验过。
 1. PatViewer：<http://www.patviewer.com>，免费数据库，名字是英文的，但是是一个十足的中文数据库，连字段名都是中文的，视图方式只有比较简陋的一种，IPC 分类导航功能大赞，还免费公开了很多专题数据库，如果这里边有你关心的领域，那你就有福了。
 1. SooPat：<http://www.soopat.com>，速度有了较大的改善，但是只有检索一个关键词，检索多个关键词会要求购买高级账号，几乎等同于不再免费。
-1. 情报嗒嗒：<https://www.tiikong.com/patent/query/index.do>，苏州公司，以前的天弓，和中国专利信息中心合作的产品。需要注册。
+1. 情报嗒嗒：<https://www.tiikong.com/patent/query/index.do>，苏州公司，以前的天弓，和中国专利信息中心合作的产品。需要注册，体验一般，不推荐。
 1. 专利之星：<http://www.patentstar.cn>，专利信息中心开发，前身是 CPRS 系统，上来就让注册，没体验过，不评价。
 1. 东方灵盾：<http://www.lindenpat.com>，东方灵盾开发的新产品，还有化学结构检索，市场宣传的比较少，需要注册。
-1. 北京市知识产权公共信息平台：<http://www.beijingip.cn/search/login.dhtml?subjectCode=1>，不多说了，可以用用试试。
-1. 上海市知识产权信息服务平台：<http://www.shanghaiip.cn/Search/login.do>，可以建设企业专题库。
-1. 广东省知识产权公共信息综合服务平台：<http://search.guangdongip.gov.cn>，申请人工具不错，目前只在收费的 incoPat 数据库中有见到这一功能，公开了较多按行业分类的专题数据库，IPC 分类导航功能与 PatViewer 完全一样，只是右侧显示的结果更多。
+1. 北京市知识产权公共信息平台：<http://www.beijingip.cn/jopm_ww/website/index.do>，看名字就知道是体制内的作品，体验极差，页面上存在不少无法打开的链接。
 1. 国家重点产业专利信息服务平台：<http://chinaip.cnipa.gov.cn>，其实数据不仅仅是重点产业的，CNIPR 重点产业版。
 1. 中国专利网：<http://www.cnpatent.com>，中国专利技术开发公司开发，点击专利检索不知道为什么跳到了这个网站上峰利平台 <http://www.patentbd.com/wee>。
 1. 国家科技数字图书馆：<https://www.nstl.gov.cn/search.html>，能检索各种数据，包括专利。
-1. 中国军民融合平台：<http://sooip.com.cn>，名字很雷人，只看名字我是怎么也想不到这是一个专利检索网站的，必须登录才能够使用。
 
 ## 国外篇
 
@@ -166,7 +164,7 @@
 1. 日本特许厅的分类对照工具：<https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi>，极为推荐，能够对照显示 IPC, FI, ECLA, ICO 和 CPC，且所有分类号都提供英语和日语双语显示，用户也可以根据需要只显示部分分类号或者只显示英文或者只显示日语，虽然没有中文，但是日语中较多字就是汉字，对照英语，并不难懂。
 1. incoPat 专利数据库提供的 IPC 分类查询：http://ipc.incopat.com/，极为推荐，数据库虽然收费，但是 IPC 分类查询功能却是免费的，同时提供中文版、英文版和日文版，相对于日本特许厅的分类对照工具的缺点是——无法快速对照这三种语言版本。
 1. PatViewer 的 IPC 分类导航：<http://www.patviewer.com/mytreeipc.do>，十分推荐，因为它可以根据选择在右侧显示十数篇至数十篇相应的中文或英文的专利摘要及附图，对于快速理解分类号十分有帮助。
-1. 广东省知识产权公共信息综合服务平台的 IPC 分类导航：<http://search.guangdongip.gov.cn/node/industrySort?industryFlag=1>，十分推荐，与上面的 PatViewer 的 IPC分类导航功能均是同一家公司的作品，但右侧显示的专利更多，只能显示中文专利。
+1. 广东省知识产权公共信息综合服务平台的 IPC 分类导航：<http://search.guangdongip.gov.cn/node/industrySort?industryFlag=1>，十分推荐，与上面的 PatViewer 的 IPC 分类导航功能均是同一家公司的作品，但右侧显示的专利更多，只能显示中文专利。
 1. 国家知识产权局 IPC 分类查询：<http://epub.cnipa.gov.cn/ipc.jsp>，此外国家知识产权局还按照 IPC 分类号的 8 个部提供 8 个可下载的 Doc 格式的文档 <http://www.sipo.gov.cn/wxfw/zlwxxxggfw/zsyd/bzyfl/flgj_gjzlfl/index.htm>，但是两者体验都较差，且没有 CPC 分类查询功能。
 1. 欧洲专利局的分类检索：<https://worldwide.espacenet.com/classification?locale=cn_EP>，英文的，更新较为及时，并且提供 IPC 和 CPC 的比对功能，体验也很棒，较为推荐。
 1. 台湾智慧财产厅的 IPC 分类浏览：<https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm>，速度很快，体验也不错，别拿繁体不当中文。
