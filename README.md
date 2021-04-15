@@ -40,7 +40,7 @@
 1. 北京市知识产权公共信息平台：<http://www.beijingip.cn/jopm_ww/website/index.do>，看名字就知道是体制内的作品，体验极差，页面上存在不少无法打开的链接。
 1. 国家重点产业专利信息服务平台：<http://chinaip.cnipa.gov.cn>，其实数据不仅仅是重点产业的，CNIPR 重点产业版。
 1. 中国专利网：<http://www.cnpatent.com>，中国专利技术开发公司开发，点击专利检索不知道为什么跳到了这个网站上峰利平台 <http://www.patentbd.com/wee>。
-1. 国家科技数字图书馆：<https://www.nstl.gov.cn/search.html>，能检索各种数据，包括专利。
+1. 国家科技数字图书馆：<https://www.nstl.gov.cn/search.html>，既能检索期刊、论文、图书等文献，又能检索专利，检索专利还支持中文检索全球专利，缺点是只能免费查看著录项目和摘要，下载要钱。
 
 ## 国外篇
 
