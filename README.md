@@ -33,7 +33,6 @@
 1. 超星独秀：<http://www.duxiu.com/?channel=searchPatent>，只有中国专利。
 1. 百度专利：<http://zhuanli.baidu.com>，只想说，百度对待专利没有谷歌认真。
 1. 壹专利：<http://patyee.com>，提供国防解密专利检索，收费数据库，没有体验过。
-1. PatViewer：<http://www.patviewer.com>，免费数据库，名字是英文的，但是是一个十足的中文数据库，连字段名都是中文的，视图方式只有比较简陋的一种，IPC 分类导航功能大赞，还免费公开了很多专题数据库，如果这里边有你关心的领域，那你就有福了。
 1. SooPat：<http://www.soopat.com>，速度有了较大的改善，但是只有检索一个关键词，检索多个关键词会要求购买高级账号，几乎等同于不再免费。
 1. 情报嗒嗒：<https://www.tiikong.com/patent/query/index.do>，苏州公司，以前的天弓，和中国专利信息中心合作的产品。需要注册，体验一般，不推荐。
 1. 专利之星：<http://www.patentstar.cn>，专利信息中心开发，前身是 CPRS 系统，上来就让注册，没体验过，不评价。
@@ -163,8 +162,7 @@
 
 1. 日本特许厅的分类对照工具：<https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi>，极为推荐，能够对照显示 IPC, FI, ECLA, ICO 和 CPC，且所有分类号都提供英语和日语双语显示，用户也可以根据需要只显示部分分类号或者只显示英文或者只显示日语，虽然没有中文，但是日语中较多字就是汉字，对照英语，并不难懂。
 1. incoPat 专利数据库提供的 IPC 分类查询：http://ipc.incopat.com/，极为推荐，数据库虽然收费，但是 IPC 分类查询功能却是免费的，同时提供中文版、英文版和日文版，相对于日本特许厅的分类对照工具的缺点是——无法快速对照这三种语言版本。
-1. PatViewer 的 IPC 分类导航：<http://www.patviewer.com/mytreeipc.do>，十分推荐，因为它可以根据选择在右侧显示十数篇至数十篇相应的中文或英文的专利摘要及附图，对于快速理解分类号十分有帮助。
-1. 广东省知识产权公共信息综合服务平台的 IPC 分类导航：<https://s.gpic.gd.cn/access/hostingplatform/nav/route/showNav?industryFlag=0>，十分推荐，与上面的 PatViewer 的 IPC 分类导航功能均是同一家公司的作品，但右侧显示的专利更多，只能显示中文专利。
+1. 广东省知识产权公共信息综合服务平台的 IPC 分类导航：<https://s.gpic.gd.cn/access/hostingplatform/nav/route/showNav?industryFlag=0>，只能显示中文专利。
 1. 国家知识产权局 IPC 分类查询：<http://epub.cnipa.gov.cn/ipc.jsp>，此外国家知识产权局还按照 IPC 分类号的 8 个部提供 8 个可下载的 Doc 格式的文档 <http://www.sipo.gov.cn/wxfw/zlwxxxggfw/zsyd/bzyfl/flgj_gjzlfl/index.htm>，但是两者体验都较差，且没有 CPC 分类查询功能。
 1. 欧洲专利局的分类检索：<https://worldwide.espacenet.com/classification?locale=cn_EP>，英文的，更新较为及时，并且提供 IPC 和 CPC 的比对功能，体验也很棒，较为推荐。
 1. 台湾智慧财产厅的 IPC 分类浏览：<https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm>，速度很快，体验也不错，别拿繁体不当中文。
