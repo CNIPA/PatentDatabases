@@ -31,7 +31,6 @@
 1. 中国知网：<http://epub.cnki.net/KNS/brief/result.aspx?dbPrefix=SCOD>，专利数据无处不在。
 1. 万方数据：<http://librarian.wanfangdata.com.cn/default.aspx?dbid=Paper>，多乎哉，不多已。
 1. 超星独秀：<http://www.duxiu.com/?channel=searchPatent>，只有中国专利。
-1. 百度专利：<http://zhuanli.baidu.com>，只想说，百度对待专利没有谷歌认真。
 1. 壹专利：<http://patyee.com>，提供国防解密专利检索，收费数据库，没有体验过。
 1. SooPat：<http://www.soopat.com>，速度有了较大的改善，但是只有检索一个关键词，检索多个关键词会要求购买高级账号，几乎等同于不再免费。
 1. 专利之星：<https://www.patentstar.com.cn>，专利信息中心开发，前身是 CPRS 系统，上来就让注册，没体验过，不评价。
