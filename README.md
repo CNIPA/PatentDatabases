@@ -51,6 +51,8 @@
 ### 国际组织
 - 世界知识产权组织 PATENTSCOPE：<https://patentscope.wipo.int/search/zh/search.jsf>，世界知识产权组织的官方检索系统，查询 PCT 国际申请最好的地方，同时还收录很多国家/地区的专利数据，提供的功能较为全面，浏览专利也较为方便，强烈推荐。
 
+- 世界知识产权组织全球外观设计数据库：<https://www.wipo.int/designdb/en/>，WIPO 的外观设计检索库，汇集海牙体系注册以及各成员国的外观设计数据，可以按产品名称、洛迦诺分类号、注册人等信息检索。
+
 ### 区域性组织
 - 欧洲专利局 Espacenet：<https://worldwide.espacenet.com/>，收录国家和地区最多的免费数据库了，覆盖 100 多个国家/地区的专利文献，有数十个国家语言入口，可以查看同族、引证和法律状态，并提供 IPC、CPC 分类检索，欧洲统治世界的唯一表现，最为推荐。
 - 欧盟知识产权局 EUIPO：<https://euipo.europa.eu>，欧洲，欧盟，傻傻分不清楚，负责欧盟商标和注册式共同体外观设计的注册与管理，官网提供 eSearch plus（商标、外观设计、权利人、公报）和 eSearch Case Law 等免费检索工具，目前只有外观设计专利，价值有限。
@@ -58,6 +60,9 @@
 - 非洲地区知识产权组织 ARIPO：<http://www.aripo.org>，非洲英语区国家的地区性知识产权组织，代表成员国受理专利、实用新型、商标和工业品外观设计申请，官网提供地区知识产权数据库（Regional IP Database）和官方公报。
 - 海湾阿拉伯国家合作委员会专利局 GCCPO：<http://www.gccpo.org>，受理海湾合作委员会成员国（沙特、阿联酋、卡塔尔、科威特、巴林、阿曼）的专利授权，可以检索 1998 年至今的授权专利，提供快速检索、高级检索和专利公报，基本可下载 PDF 版全文，阿拉伯语为主，另有英文界面。
 - 比荷卢知识产权组织 BOIP：<https://www.boip.int>，比利时、荷兰、卢森堡三国竟然还成立了一个知识产权组织，负责比荷卢地区的商标和外观设计注册，官网提供商标注册簿和外观设计登记簿的免费检索。
+
+- 非洲知识产权组织 OAPI：<https://oapi.int/>，非洲法语区国家的地区性知识产权组织，依据《班吉协定》受理成员国的专利、商标和外观设计申请，官网提供成员信息与公报。
+- 欧洲专利局欧洲公布服务器：<https://data.epo.org/publication-server/>，欧洲专利局官方的专利文献公布与下载平台，可以按月下载欧洲专利说明书全文。
 
 ## 亚洲
 
@@ -180,6 +185,9 @@
 
 ## 欧洲
 
+### 阿尔巴尼亚
+- 阿尔巴尼亚工业产权总局（DPPI）：<https://www.dppi.gov.al/>，阿尔巴尼亚专利、商标和外观设计的主管机构，官网提供工业产权注册信息与在线服务，界面为阿尔巴尼亚语。
+
 ### 奥地利
 - 奥地利专利局：<https://www.patentamt.at>，负责专利、实用新型、外观设计和商标的审查与注册，官网支持德语、英语。
 - 外观设计检索：<https://seeip.patentamt.at/MusterSuche>，可查询 1999 年以后的外观设计图像和基本信息，结果显示著录项目及附图，界面支持德语和英语。
@@ -224,6 +232,8 @@
 ### 德国
 - 德国专利商标局（DPMA）：<http://www.dpma.de>，德国专利、实用新型、外观设计和商标的主管机构，官方检索平台为 DPMAregister，有英文检索入口，检索结果显示著录项信息和摘要。
 
+- DEPATISnet：<https://depatisnet.dpma.de/>，德国专利商标局提供的免费检索系统，收录德国及全球 100 多个国家、地区的专利文献，可以按号码、标题、申请人、分类号和全文检索，有英文界面。
+
 ### 希腊
 - 希腊工业产权组织（OBI）：<https://www.obi.gr>，负责发明、工业品外观设计和商标的保护，官网支持希腊语和英语并提供在线专利检索服务。
 - 在线服务（发明和实用新型）：<https://www.obi.gr/obi/?tabid=124>，提供发明和实用新型查询，界面支持希腊语和英语，可查看著录项目、法律状态及年费缴纳信息，最多显示 200 条。
@@ -235,6 +245,9 @@
 
 ### 冰岛
 - 冰岛知识产权局（Hugverkastofan）：<http://www.patent.is>，冰岛知识产权主管机构，官网主要提供外观设计的检索，没有发明专利的在线检索。
+
+### 爱尔兰
+- 爱尔兰知识产权局（IPOI）：<https://www.ipoi.gov.ie/>，爱尔兰专利、商标和外观设计的主管机构，官网提供知识产权信息、费用标准、办事指南和在线检索入口，界面为英文。
 
 ### 意大利
 - 意大利专利商标局（UIBM）：<http://www.uibm.gov.it>，隶属意大利企业与意大利制造部，负责专利、商标和外观设计的注册与保护，官网提供相关信息、法规和检索入口。
@@ -279,6 +292,9 @@
 - 发明、实用新型和工业品外观设计检索：<https://ewyszukiwarka.pue.uprp.gov.pl/search/simple-search>，可查 1924 年以来的申请公布文本、注册专利、在波兰生效的欧洲专利及 1988 年、2002 年后注册的实用新型和外观设计全文，结果含着录项目、公报与审查过程。
 - 公报和信息：<https://uprp.gov.pl/pl/publikacje/biuletyn-i-wiadomosci-uprp>，提供 1973 年至今出版的公报及 1924 年至今公开的信息，含专利、实用新型、外观设计说明书和在波兰有效的欧洲专利波兰语译文。
 
+### 葡萄牙
+- 葡萄牙工业产权局（INPI Portugal）：<https://inpi.justica.gov.pt/>，葡萄牙专利、商标和外观设计的主管机构，官网提供知识产权信息、在线服务和工业产权公报，界面为葡萄牙语。
+
 ### 罗马尼亚
 - 罗马尼亚国家发明与商标局（OSIM）：<http://www.osim.ro>，罗马尼亚工业产权主管机构，官网提供专利、商标和外观设计检索（e-consultare 平台），没有日期入口，无法检全库数据，显示基本著录项信息，PDF 全文，不能下载。
 
@@ -317,10 +333,16 @@
 ### 瑞士
 - 瑞士联邦知识产权局（IPI/IGE）：<https://www.ige.ch>，瑞士专利、商标和外观设计的主管机构，官方登记与检索入口为 Swissreg（IPI Database），显示基本著录项及法律状态，没有全文。
 
+### 乌克兰
+- 乌克兰国家知识产权与创新局（Ukrpatent）：<https://ukrpatent.org/>，乌克兰知识产权主管机构，官网提供专利、商标和外观设计的申请、检索与公报服务，界面为乌克兰语和英语。
+
 ### 英国
 - 英国知识产权局（UKIPO）：<http://www.ipo.gov.uk>，英国专利、商标和外观设计的主管机构，官网提供检索，显示著录项信息、摘要，可下载全文，相关服务现已并入 gov.uk 统一门户。
 
 ## 美洲
+
+### 阿根廷
+- 阿根廷国家工业产权局（INPI）：<https://www.argentina.gob.ar/inpi>，阿根廷专利、商标和外观设计的主管机构，官网提供知识产权注册、检索和公报信息，界面为西班牙语。
 
 ### 伯利兹
 - 伯利兹知识产权局（BELIPO）：<http://www.belipo.bz>，伯利兹专利、商标和外观设计的注册机构，官网有检索请求入口，但是需要登录。
@@ -332,6 +354,8 @@
 
 ### 加拿大
 - 加拿大知识产权局（CIPO）：<http://www.cipo.ic.gc.ca>，隶属加拿大创新、科学与经济发展部，官网提供加拿大专利数据库（Canadian Patents Database）以及商标、外观设计检索，可以查看基本著录项、全文等，细览信息比较全。
+
+- 加拿大专利数据库（Canadian Patents Database）：<https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/introduction.html>，加拿大知识产权局的官方专利检索系统，收录 1869 年以来的加拿大专利，可以查看著录项目、说明书全文和附图，有英文和法文界面。
 
 ### 智利
 - 智利国家工业产权局（INAPI）：<https://www.inapi.cl>，负责管理和执行工业产权相关服务，官网支持西班牙语、英语、法语、中文。
@@ -363,6 +387,11 @@
 
 ### 美国
 - 美国专利商标局（USPTO）：<http://www.uspto.gov/patents/process/search/index.jsp>，美国专利商标局官方网站，编号和语法规则奇怪，不如欧专局的网站好用，但是美国专利状态信息必须从这个网站查；现行公开检索系统为 Patent Public Search。
+
+- 专利公开检索系统（Patent Public Search）：<https://ppubs.uspto.gov/pubwebapp/>，美国专利商标局现行的官方检索系统，取代了原来的 PatFT、AppFT，可以检索 1790 年以来的美国授权专利和公开申请，支持全文检索、分类检索和批量导出，界面为英文。
+- 专利申请中心（Patent Center）：<https://patentcenter.uspto.gov/>，美国专利商标局的申请与事务办理平台，可以查看申请文件、审查过程和缴费记录。
+- Global Dossier：<https://globaldossier.uspto.gov/>，五大局（美、欧、日、中、韩）共同提供的案卷查询服务，可以一次查到同一申请在各局的审查档案。
+- 开放数据门户（Open Data Portal）：<https://data.uspto.gov/>，美国专利商标局的专利数据下载与接口平台，提供专利著录、全文、转让等数据集，适合批量取数，已取代原来的 PatentsView 入口。
 
 ### 乌拉圭
 - 乌拉圭工业、能源与矿业部（MIEM）：<http://www.miem.gub.uy>，乌拉圭工业产权事务由其下属的国家工业产权局（DNPI）负责，官网提供工业产权相关信息和办事入口。
@@ -412,6 +441,7 @@
 1. DerwentInnovation：<https://www.derwentinnovation.com>，德温特，听说很牛逼，短暂体验过，并没有感觉好用，外国的数据库，没有中文版，中文专利有机翻英文。
 1. Questel：<http://www.questel.orbit.com/index.php/en>，编者一直没机会用过，收费的，同族数据处理是特色之一。
 1. Patbase：<http://www.patbase.com>，收费数据库，可申请免费试用，界面中日英多种语言可以选择。
+1. AcclaimIP：<https://www.acclaimip.com/>，Anaqua 公司的专利检索与分析工具，支持语义检索、专利族谱图、引证分析和批量导出，收费，可以申请试用。
 1. WIPS：<http://www.wipsglobal.com/service/mai/main.wips>，韩国的专利检索系统，还可以。
 1. Patseer：<http://patseer.com>，不知名不代表不够高大上，其实是个不错的产品。
 1. Patanalyse：<http://www.patanalyse.com>，英国的产品，没用过。
@@ -421,6 +451,8 @@
 1. DIALOG：<http://search.proquest.com/professional>，这家公司被卖了很多次，系统还是高端的，收费的，很贵。
 1. STN：<https://www.stn.org/stn>，检索化学领域专利的利器，没钱就算了。
 1. 美国化学文摘社：<https://www.cas.org>，不多介绍，看名字就知道它的特点了吧。
+1. SureChEMBL：<https://www.surechembl.org/>，欧洲分子生物学实验室（EMBL-EBI）维护的免费化学专利数据库，从专利全文、附图和附件中提取化合物信息，可以按化学结构检索相关专利。
+1. Reaxys：<https://www.reaxys.com/>，爱思唯尔旗下的化学信息平台，收录化学文献与专利中的化合物、反应和性质数据，收费，检索化学领域专利时常用。
 1. INSPEC：<http://www.theiet.org/resources/inspec>，物理工程领域的专业检索工具。
 1. Pubmed：<https://www.ncbi.nlm.nih.gov/pubmed>，我是学药学的，习惯了免费的东西，个人觉得和我一样穷的，这个绝对是最好的选择，仔细找找，惊喜不断。
 
